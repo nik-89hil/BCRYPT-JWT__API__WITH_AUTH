@@ -9,4 +9,9 @@
 
 > provide in header (postman)
 
->that's it
+> that's it
+
+> Use of Bcrypt in hash.js
+
+> Use of jsonwebtokens in jwt.js
+
