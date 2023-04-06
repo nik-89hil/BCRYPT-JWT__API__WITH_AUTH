@@ -1,4 +1,4 @@
-# BCRYPT-JWT__API__WITH_AUTH
+# JWT__API__WITH_AUTH
 
 
 > npm install 
